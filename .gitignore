@@ -1,0 +1,9 @@
+data/CSIRO LAMMPS Dataset
+data/LAMMPS-DFTB-GOLD
+data/Outliers removed from LAMMPS-DFTB-GOLD dataset
+data/LAMMPS-DFTB_GOLD.csv
+**/__pycache__
+**/images
+**/.ipynb_checkpoints
+data_science/t-SNE
+data_science/correlations.csv
