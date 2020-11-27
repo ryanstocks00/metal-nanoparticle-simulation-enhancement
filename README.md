@@ -8,4 +8,4 @@ This repository provides a set of code bases for feature extraction and machine 
 
   2. Data science code that can be used to find and remove highly correlated features. This is contained in the ```data_science``` directory.
 
-  3. Machine learning code implemented using the Sci-Kit learn python module that uses a decision tree regressor to identify important features and then uses an artificial neural network to generate a prediction of the energy correction term. THis is contained in the ```machine_learning``` directory.
+  3. Machine learning code implemented using the Sci-Kit learn python module that uses a decision tree regressor to identify important features and then uses an artificial neural network to generate a prediction of the energy correction term. This is contained in the ```machine_learning``` directory.
